@@ -5,7 +5,7 @@ author: djrekt
 post_excerpt: ""
 layout: post
 permalink: >
-  http://idjrekt.com/index.php/2018/05/26/my-new-website-is-under-construction/
+  https://idjrekt.com/index.php/2018/05/26/my-new-website-is-under-construction/
 published: true
 post_date: 2018-05-26 23:46:56
 ---
