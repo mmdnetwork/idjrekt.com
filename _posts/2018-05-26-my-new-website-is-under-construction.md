@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-05-26 23:46:56
 ---
-<h3><img class="alignnone size-medium wp-image-45" src="http://idjrekt.com/wp-content/uploads/2018/05/images-300x144.png" alt="" width="300" height="144" /></h3>
+<h3><img class="alignnone size-medium wp-image-45" src="http://idjrekt.com/wp-content/uploads/2018/05/images-300x144.png" alt="Under Construction Graphic" width="300" height="144" /></h3>
 <h3></h3>
 <h3>My new website is currently under construction.  Feel free to contact me in the meantime though :)</h3>
 &nbsp;
