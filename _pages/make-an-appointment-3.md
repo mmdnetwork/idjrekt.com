@@ -5,7 +5,7 @@ author: djrekt
 post_excerpt: ""
 layout: page
 permalink: >
-  https://idjrekt.com/index.php/make-an-appointment-3/
+  http://idjrekt.com/index.php/make-an-appointment-3/
 published: true
 post_date: 2018-06-15 04:01:39
 ---
